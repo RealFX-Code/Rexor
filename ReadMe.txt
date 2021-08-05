@@ -1,9 +1,10 @@
-(this readme file is ripped directly from the one that is automatically generated from the installer.)
+Rexor is a free / open source game launcher, made to look like an actual game launcher.
 
-This README is generated automatically, do not try and delete it! 
- 
-REXOR is still in beta, so if you encounter bugs, please report them at 
-https://www.github.com/mikolps/Rexor 
- 
-Thanks for reading, and enjoy REXOR! 
--RealFX 
+When play button is pressed, it opens .\\bin\rexor-32.exe
+Unless, Debug mode is enabled, in wich case it opens .\\bin\rexor-debug-32.exe
+
+Source code can be found and edited in this repository,
+this was the first C# project i have done, so it's going
+to have some bad code.
+
+Thanks, RealFX.
