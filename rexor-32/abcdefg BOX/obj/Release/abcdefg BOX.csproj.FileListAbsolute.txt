@@ -1,0 +1,11 @@
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\bin\Release\abcdefg BOX.exe.config
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\bin\Release\abcdefg BOX.exe
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\bin\Release\abcdefg BOX.pdb
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg_BOX.Form1.resources
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg_BOX.Properties.Resources.resources
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg BOX.csproj.GenerateResource.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg BOX.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg BOX.exe
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg BOX.pdb
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg BOX.csprojAssemblyReference.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg BOX\abcdefg BOX\obj\Release\abcdefg_BOX.Form2.resources
