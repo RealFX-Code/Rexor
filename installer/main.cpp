@@ -12,7 +12,7 @@ int main()
     system("attrib +h Temp");
     HRESULT hr;
     std::cout << "Started Download Process.\n";
-    string dwnld_URL = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/7za.dll";
+    string dwnld_URL = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/7za.dll";
     string savepath = ".\\Temp\\7za.dll";
     hr = URLDownloadToFile(NULL, dwnld_URL.c_str(), savepath.c_str(), 0, NULL);
     switch (hr)
@@ -31,7 +31,7 @@ int main()
         std::cout << "Download failed, Unknown error!\n";
         break;
     }
-    string dwnld_URL1 = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/7za.exe";
+    string dwnld_URL1 = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/7za.exe";
     string savepath1 = ".\\Temp\\7za.exe";
     hr = URLDownloadToFile(NULL, dwnld_URL1.c_str(), savepath1.c_str(), 0, NULL);
     switch (hr)
@@ -50,7 +50,7 @@ int main()
         std::cout << "Download failed, Unknown error!\n";
         break;
     }
-    string dwnld_URL2 = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/7zxa.dll";
+    string dwnld_URL2 = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/7zxa.dll";
     string savepath2 = ".\\Temp\\7zxa.dll";
     hr = URLDownloadToFile(NULL, dwnld_URL2.c_str(), savepath2.c_str(), 0, NULL);
     switch (hr)
@@ -69,7 +69,7 @@ int main()
         std::cout << "Download failed, Unknown error!\n";
         break;
     }
-    string dwnld_URL3 = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/Libs.compressed";
+    string dwnld_URL3 = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/Libs.compressed";
     string savepath3 = ".\\Temp\\Libs.compressed";
     hr = URLDownloadToFile(NULL, dwnld_URL3.c_str(), savepath3.c_str(), 0, NULL);
     switch (hr)
@@ -88,7 +88,7 @@ int main()
         std::cout << "Download failed, Unknown error!\n";
         break;
     }
-    string dwnld_URL4 = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/installer.bat";
+    string dwnld_URL4 = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/installer.bat";
     string savepath4 = ".\\Temp\\Install.bat";
     hr = URLDownloadToFile(NULL, dwnld_URL4.c_str(), savepath4.c_str(), 0, NULL);
     switch (hr)
@@ -107,7 +107,7 @@ int main()
         std::cout << "Download failed, Unknown error!\n";
         break;
     }
-    string dwnld_URL5 = "https://github.com/RealFX-Code/RealFX-Code.github.io/raw/main/etc/rexor/run.bat";
+    string dwnld_URL5 = "https://raw.githubusercontent.com/RealFX-Code/Rexor/main/DL/run.bat";
     string savepath5 = ".\\Temp\\run.bat";
     hr = URLDownloadToFile(NULL, dwnld_URL5.c_str(), savepath5.c_str(), 0, NULL);
     switch (hr)
