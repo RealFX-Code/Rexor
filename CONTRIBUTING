@@ -1,0 +1,9 @@
+You must agree to the conditions outlined in the LICENSE in order to contribute.
+
+In order for your contribution to be noticed and accepted, you must create a pull request
+that includes all modifications and explains why or how you are implementing the changes.
+If your modifications create significant instability, the request will either be made
+optional to the user or refused, since we are aiming for the quickest or most stable code.
+
+This project is free and open-source, you can modify any source code and request changes
+to be made to the main release stream.
