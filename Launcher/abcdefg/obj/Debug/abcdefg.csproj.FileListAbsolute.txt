@@ -1,0 +1,10 @@
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\bin\Debug\abcdefg.exe.config
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\bin\Debug\abcdefg.exe
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\bin\Debug\abcdefg.pdb
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.csprojAssemblyReference.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.Form1.resources
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.Properties.Resources.resources
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.csproj.GenerateResource.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.exe
+C:\Users\mathi\OneDrive\Desktop\C#\abcdefg\abcdefg\obj\Debug\abcdefg.pdb
