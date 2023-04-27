@@ -1,3 +1,5 @@
+this is dead, go away...
+
 Rexor is a free / open source game launcher, made to look like an actual game launcher.
 
 When play button is pressed, it opens .\\bin\rexor-32.exe
